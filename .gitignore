@@ -1,5 +1,7 @@
 # Additions for a dataset
 fastq/
+models/
+training/
 processed/
 annotation/
 analysis/
